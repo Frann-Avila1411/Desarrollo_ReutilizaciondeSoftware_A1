@@ -1,0 +1,15 @@
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\bin\Debug\net10.0\Ej3_HerenciaSimple.exe
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\bin\Debug\net10.0\Ej3_HerenciaSimple.deps.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\bin\Debug\net10.0\Ej3_HerenciaSimple.runtimeconfig.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\bin\Debug\net10.0\Ej3_HerenciaSimple.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\bin\Debug\net10.0\Ej3_HerenciaSimple.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.AssemblyInfoInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.AssemblyInfo.cs
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.csproj.CoreCompileInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.sourcelink.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\refint\Ej3_HerenciaSimple.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\Ej3_HerenciaSimple.genruntimeconfig.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej3_HerenciaSimple\obj\Debug\net10.0\ref\Ej3_HerenciaSimple.dll
