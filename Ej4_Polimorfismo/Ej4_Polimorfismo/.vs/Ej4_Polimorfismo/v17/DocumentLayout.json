@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|c:\\users\\pc\\desktop\\desarrollo_reutilizaciondesoftware_a1\\ej4_polimorfismo\\ej4_polimorfismo\\ej4_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|solutionrelative:ej4_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|c:\\users\\pc\\desktop\\desarrollo_reutilizaciondesoftware_a1\\ej4_polimorfismo\\ej4_polimorfismo\\ej4_polimorfismo\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|solutionrelative:ej4_polimorfismo\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|c:\\users\\pc\\desktop\\desarrollo_reutilizaciondesoftware_a1\\ej4_polimorfismo\\ej4_polimorfismo\\ej4_polimorfismo\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|solutionrelative:ej4_polimorfismo\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|c:\\users\\pc\\desktop\\desarrollo_reutilizaciondesoftware_a1\\ej4_polimorfismo\\ej4_polimorfismo\\ej4_polimorfismo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC958DC6-2FFE-43EC-9A92-000F37288D18}|Ej4_Polimorfismo\\Ej4_Polimorfismo.csproj|solutionrelative:ej4_polimorfismo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Gato.cs",
+              "RelativeDocumentMoniker": "Ej4_Polimorfismo\\Gato.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Gato.cs",
+              "RelativeToolTip": "Ej4_Polimorfismo\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:36:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Perro.cs",
+              "RelativeDocumentMoniker": "Ej4_Polimorfismo\\Perro.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Perro.cs",
+              "RelativeToolTip": "Ej4_Polimorfismo\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:36:03.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Animal.cs",
+              "RelativeDocumentMoniker": "Ej4_Polimorfismo\\Animal.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Animal.cs",
+              "RelativeToolTip": "Ej4_Polimorfismo\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:35:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Ej4_Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Desarrollo_ReutilizaciondeSoftware_A1\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Ej4_Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Ej4_Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:34:13.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\bin\Debug\net8.0\Ej4_Polimorfismo.exe
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\bin\Debug\net8.0\Ej4_Polimorfismo.deps.json
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\bin\Debug\net8.0\Ej4_Polimorfismo.runtimeconfig.json
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\bin\Debug\net8.0\Ej4_Polimorfismo.dll
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\bin\Debug\net8.0\Ej4_Polimorfismo.pdb
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.sourcelink.json
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.dll
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\refint\Ej4_Polimorfismo.dll
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.pdb
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\Ej4_Polimorfismo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Desarrollo_ReutilizaciondeSoftware_A1\Ej4_Polimorfismo\Ej4_Polimorfismo\Ej4_Polimorfismo\obj\Debug\net8.0\ref\Ej4_Polimorfismo.dll
