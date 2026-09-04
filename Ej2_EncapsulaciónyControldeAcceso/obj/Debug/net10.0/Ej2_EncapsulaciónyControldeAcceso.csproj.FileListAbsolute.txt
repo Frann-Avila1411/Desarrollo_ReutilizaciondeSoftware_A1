@@ -1,0 +1,15 @@
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\bin\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.exe
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\bin\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.deps.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\bin\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.runtimeconfig.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\bin\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\bin\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.AssemblyInfoInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.AssemblyInfo.cs
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.csproj.CoreCompileInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.sourcelink.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\refint\Ej2_EncapsulaciónyControldeAcceso.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\Ej2_EncapsulaciónyControldeAcceso.genruntimeconfig.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej2_EncapsulaciónyControldeAcceso\obj\Debug\net10.0\ref\Ej2_EncapsulaciónyControldeAcceso.dll
