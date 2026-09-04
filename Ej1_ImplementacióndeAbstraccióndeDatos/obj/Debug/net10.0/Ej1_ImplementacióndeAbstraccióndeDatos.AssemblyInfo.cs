@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ej1_ImplementacióndeAbstraccióndeDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3d546d70792a4cab9ee54e9305076a437988e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e8ca3615fd24b7dd18adfb41a1d3b3d1ef4f5c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ej1_ImplementacióndeAbstraccióndeDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ej1_ImplementacióndeAbstraccióndeDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

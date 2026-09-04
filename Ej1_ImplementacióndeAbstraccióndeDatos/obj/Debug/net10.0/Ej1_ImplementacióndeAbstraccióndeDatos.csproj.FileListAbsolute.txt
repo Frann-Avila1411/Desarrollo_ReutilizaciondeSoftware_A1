@@ -1,0 +1,15 @@
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\bin\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.exe
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\bin\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.deps.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\bin\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.runtimeconfig.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\bin\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\bin\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.AssemblyInfoInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.AssemblyInfo.cs
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.sourcelink.json
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\refint\Ej1_ImplementacióndeAbstraccióndeDatos.dll
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.pdb
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\Ej1_ImplementacióndeAbstraccióndeDatos.genruntimeconfig.cache
+C:\Users\lenovo e470\Desktop\ActividadEvaluada1\Ej1_ImplementacióndeAbstraccióndeDatos\obj\Debug\net10.0\ref\Ej1_ImplementacióndeAbstraccióndeDatos.dll
